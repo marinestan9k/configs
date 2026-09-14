@@ -13,7 +13,7 @@ Hopefully the thing shouldn't bother you anymore.
 
 ### Vulkan (any distro)
 
-Steam's overlay will look pretty funny since its running with OpenGL by default. This will be the thing for those that are bothered by it.
+Steam's overlay will look pretty funny since its running with OpenGL by default (at leat in my experience). This will be the thing for those that are bothered by it.
 
 First, make sure the Steam client is open. Then in your library, right click on any Source 1 game and click "Properties..."<br>
 <img width="265" height="205" alt="image" src="https://github.com/user-attachments/assets/ecdec55c-faac-4aec-b5d8-41041f444e93" /><br>
