@@ -21,6 +21,8 @@ First, make sure the Steam client is open. Then in your library, right click on 
 Under "Launch Options", put in `-vulkan`.<br>
 <img width="836" height="595" alt="image" src="https://github.com/user-attachments/assets/f53a8480-4611-4334-bbea-92c21dc6c3a6" /><br>
 
+Steam's overlay should look normal now.
+
 ### Proton (any distro)
 
 Alternatively, you can force the Source 1 game to run via a version of Proton.<br>
