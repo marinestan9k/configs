@@ -9,6 +9,8 @@ Afterwards, run this command listed here and in this screenshot.<br>
 <img width="558" height="196" alt="image" src="https://github.com/user-attachments/assets/bde3e6a3-1562-4ec3-a986-3213b5a465d7" /><br>
 `sudo semodule -X 300 -i my-hl2linux.pp`
 
+Hopefully it shouldn't bother you anymore. Enjoy!
+
 ### Vulkan (any distro)
 
 Steam's overlay will look pretty funny since its running with OpenGL by default (at least in my experience). This will be the thing for those that are bothered by it.
