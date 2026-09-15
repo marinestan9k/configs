@@ -51,11 +51,6 @@
             "combined": true
         },
         "shell",
-        {
-            "type": "display",
-            "compactType": "original",
-            "key": "Resolution"
-        },
         "de",
         "wm",
         "wmtheme",
